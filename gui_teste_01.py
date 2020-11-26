@@ -1,3 +1,4 @@
+#teste
 from tkinter import Tk, Label, PhotoImage, TOP, BOTTOM
 
 root = Tk()
